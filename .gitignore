@@ -1,16 +1,31 @@
-# OS files
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
-Desktop.ini
+desktop.ini
 
-# Arduino build
+# Temporary files
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Build directories
 build/
-*.elf
-*.hex
+bin/
+obj/
+out/
+dist/
 
-# IDE
-.vscode/
+# IDE files
 .idea/
-
-# Unmatched image dumps
-_unmatched/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
