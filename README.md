@@ -407,7 +407,6 @@ Seven diagnostic tests were designed and carried out to validate the device agai
 > ⚠️ Tests 2 and 3 (Force Output and Load-Bearing Capacity) were not completed with recorded results in the original folio.
 
 <details>
-<summary>Test Media</summary>
 
 </details>
 
