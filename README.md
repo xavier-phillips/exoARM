@@ -6,7 +6,7 @@
 
 Xavier Phillips, Viewbank College
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen) ![Course](https://img.shields.io/badge/VCAA-Systems%20Engineering-blue) ![Score](https://img.shields.io/badge/evaluation-19%2F30%20%2863.3%25%29-yellow)
+![Status](https://img.shields.io/badge/status-completed-brightgreen) ![Course](https://img.shields.io/badge/VCAA-Systems%20Engineering-blue)
 
 ![Arduino](https://img.shields.io/badge/Arduino-Uno%20R3-00979D) ![CAD](https://img.shields.io/badge/CAD-Inventor-1f6feb) ![Manufacturing](https://img.shields.io/badge/Manufacturing-Waterjet%20%2B%20Laser%20%2B%203D%20Print-orange)
 
