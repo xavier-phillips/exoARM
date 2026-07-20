@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arduino build
+build/
+*.elf
+*.hex
+
+# IDE
+.vscode/
+.idea/
+
+# Unmatched image dumps
+_unmatched/
