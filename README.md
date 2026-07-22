@@ -2,7 +2,7 @@
 
 # exoARM
 
-**A first-class-lever elbow exoskeleton that amplifies lifting, pushing, and pulling force to reduce workplace injury.**
+**A first-class-lever elbow exoskeleton that amplifies lifting, pushing, and pulling force to reduce workplace injury, built as a VCE Systems Engineering Unit 1 & 2 folio project.**
 
 Xavier Phillips, Viewbank College
 
