@@ -69,7 +69,7 @@ The project focused on hinge joints, as they are some of the most load bearing a
 | Spec                           | Value |
 | ------------------------------ | ----- |
 | Range of motion                | 60°   |
-| Max. force output              | 535N  |
+| Max. force output (calculated) | 535N  |
 | Max. load                      | 55kg  |
 | Input latency                  | 125ms |
 | Weight (excl. battery/circuit) | 5.1kg |
@@ -473,7 +473,7 @@ Seven diagnostic tests were designed and carried out to validate the device agai
 
 ## Reflection
 
-The exoARM set out to reduce the muscular strain of lifting, pushing, and pulling tasks by amplifying elbow-joint force through a first-class-lever mechanism. The completed device achieved a 535N maximum force output and 55kg max load capacity, a 60° range of motion, and 125ms latency well under the 500ms design target, using a linear actuator, Arduino Uno R3, and L298N motor controller.
+The exoARM set out to reduce the muscular strain of lifting, pushing, and pulling tasks by amplifying elbow-joint force through a first-class-lever mechanism. The completed device was calculated to give a 535N maximum force output and 55kg max load capacity (the force and load tests were skipped), with a 60° range of motion and a measured 125ms latency well under the 500ms design target, using a linear actuator, Arduino Uno R3, and L298N motor controller.
 
 The project surfaced clear trade-offs: the final build cost \$298.60 against a \$100 target, weighed 5.1kg against a roughly 3kg estimate, and testing surfaced discomfort from strap pressure points and device weight. These findings point to concrete next steps, such as using carbon-fibre-reinforced components and a redesigned padding system. Ultimately, the lessons I learned about managing trade-offs were the most useful outcome of the project.
 
