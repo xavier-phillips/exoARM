@@ -481,7 +481,7 @@ The project surfaced clear trade-offs: the final build cost \$298.60 against a \
 
 ## Documentation
 
-The complete folio (including all risk assessments, full development log entries, CAD screenshots, and raw test footage) is available as the [full folio PDF](docs/exoARM_Folio.pdf).
+The complete folio (including all risk assessments, full development log entries, CAD screenshots, and raw test footage) is available as the [full folio PDF](docs/exoARM_Folio_Full.pdf).
 
 Source code: [`actuator-control-v1.ino`](code/actuator-control-v1.ino), [`actuator-control-v2.ino`](code/actuator-control-v2.ino). Original CAD files are no longer available.
 
